@@ -1078,6 +1078,7 @@ PRODUCT_PACKAGES += \
     android.hardware.wifi.supplicant \
     gnss-mtk \
     gnss@2.1-service-mtk \
+    lbs_hidl_service@1.0.xml \
     manifest_android.hardware.drm@1.4-service.widevine \
     manifest_hwcomposer \
     manifest_media_c2_V1_1_default
